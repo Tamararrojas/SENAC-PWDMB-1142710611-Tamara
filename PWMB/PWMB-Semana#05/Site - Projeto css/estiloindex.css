@@ -1,0 +1,104 @@
+.logo{
+    margin-left: 38%;
+    background-color: white;
+    margin-bottom: 0 auto;
+}
+
+h1{
+    color: white;
+    background-color: #340f5c;
+    padding: 20px;
+    text-align: center;
+    font-family: tahoma;
+    margin: 0 auto;
+}
+
+strong{
+    color: black;
+}
+
+nav{
+    color: white;
+    background-color: #f0ebeb;
+    padding: 40px;
+    text-decoration:none;
+    font-size: large;
+    font-family: tahoma;
+    text-align: center;
+    margin: 0 auto;
+}
+nav a:hover{
+    color: #340f5c;
+    text-decoration:none;
+}
+
+h2{
+    color: white;
+    background-color: #340f5c;
+    padding: 30px;
+    font-family: tahoma;
+    font: bold;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1;
+}
+
+.ArmazemImagens{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.imagem{
+    width: 25%;
+    float: center;
+    margin-top: 1;
+    width: 300px; 
+    height: 250px;
+    
+}
+
+h3{
+    color: white;
+    background-color: #340f5c;
+    padding: 30px;
+    font-family: tahoma;
+    font: bold;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1;
+}
+
+.Linkedin{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.imagem2{
+    width:  5%;
+    float: center;
+    height: 100px;
+    margin-right: 30px;
+}
+
+p{
+    color:#340f5c;
+    background-color: white;
+    padding: 10px;
+    font-family: tahoma;
+    font-size: medium;
+    text-align: center;
+}
+
+footer{
+    color: white;
+    background-color: #340f5c;
+    padding: 20px;
+    font-family: tahoma;
+    text-align: center;
+}
+
+
